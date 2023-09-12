@@ -12,7 +12,7 @@ This repository contains evidence of:
 
 • A high level of written communication skills, with a well-documented, thorough and detailed project report which demonstrates my logical and analytical process to achieve the project's aims.  
 
-## Scikit-learn and Pytorch: 
+## Scikit-learn and Pytorch 
 
 This project showcases my knowledge using scikit learn for linear and logistic regression, as well as constructing neural network classifiers and GANS using Pytorch
 
